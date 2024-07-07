@@ -2,6 +2,7 @@
   "name": "my-learning-box-v3",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "private": true,
   "repository": "git@github.com:f-masanori-9/my-learning-box-v3.git",
   "author": "F-masanori <122769733+f-masanori-9@users.noreply.github.com>",
